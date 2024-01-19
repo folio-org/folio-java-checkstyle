@@ -6,7 +6,7 @@
   <artifactId>folio-java-checkstyle</artifactId>
   <groupId>org.folio</groupId>
   <description>Folio checkstyle configuration</description>
-  <version>1.0.0</version>
+  <version>1.1.0-SNAPSHOT</version>
 
    <licenses>
     <license>
@@ -39,6 +39,6 @@
     <url>https://github.com/folio-org/folio-java-checkstyle.git</url>
     <connection>scm:git:git://github.com/folio-org/folio-java-checkstyle.git</connection>
     <developerConnection>scm:git:git@github.com:folio-org/folio-java-checkstyle.git</developerConnection>
-    <tag>folio-java-checkstyle-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
